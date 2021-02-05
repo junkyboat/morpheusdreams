@@ -1,1 +1,1 @@
-(https://github-readme-stats.vercel.app/api?Cumulonimbbus=anuraghazra)](https://github.com/Cumulonimbbus/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cumulonimbbus)](https://github.com/anuraghazra/github-readme-stats)
